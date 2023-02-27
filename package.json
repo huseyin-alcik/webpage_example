@@ -10,7 +10,6 @@
     "install": "^0.13.0",
     "nodemon": "^2.0.20",
     "react": "^18.2.0",
-    "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
     "react-native-file-access": "^2.5.2",
     "react-native-web": "^0.18.12",
